@@ -6,44 +6,62 @@
     "email": "1959.sami.1959@gmail.com",
     "phone": "+212 629548466",
     "website": "https://samitechie.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a Master's Degree. in Computer Science  the University of Mohammed V. I expect to graduate in Winter, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Sale", "countryCode": "MA", "region": "Rabat-Sale-Zemmour-Zaer" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "SamiTechie", "url": "http://github.com/SamiTechie" },
+      { "network": "linkedin", "username": "samibelattar", "url": "http://linkedin.com/in/samibelattar" }
+     // { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+     // { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Computer Science" },
+    { "name": "Artificial Intelligent" },
+    { "name": "Embedded System" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Python", "Kotlin", "Javascript", "React", "Laravel"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Arch Linux"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "High school Mohamed El Hamdaoui",
+      "area": "",
+      "studyType": "",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Mohammed V",
+      "area": "Physics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Mohammed V",
+      "area": "Computer Science",
+      "studyType": "Master's Degree",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
     }
   ],
-  "work": [
+  /*"work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -95,7 +113,7 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ],*/
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -104,15 +122,15 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Third place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
+  /*"references": [
     {
       "name": "Available upon request"
     }
-  ]
+  ]*/
 }
