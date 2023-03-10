@@ -1,0 +1,76 @@
+{
+  "basics": {
+    "name": "Belattar Sami",
+    "label": "Software Developer",
+    "picture": "https://github.com/SamiTechie.png",
+    "email": "1959.sami.1959@gmail.com",
+    "phone": "+212 629548466",
+    "website": "https://samitechie.github.io",
+    "summary": "I am studying for a Master's Degree. in Computer Science at the University of Mohammed V. I expect to graduate in Winter, 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Sale", "countryCode": "MA", "region": "Rabat-Sale-Zemmour-Zaer" },
+    "profiles": [
+      { "network": "github", "username": "SamiTechie", "url": "http://github.com/SamiTechie" },
+      { "network": "linkedin", "username": "samibelattar", "url": "http://linkedin.com/in/samibelattar" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Science" },
+    { "name": "Artificial Intelligent" },
+    { "name": "Embedded System" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Python", "Kotlin", "Javascript", "React", "Laravel"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Arch Linux"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "High school Mohamed El Hamdaoui",
+      "area": "",
+      "studyType": "",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Mohammed V",
+      "area": "Physics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Mohammed V",
+      "area": "Computer Science",
+      "studyType": "Master's Degree",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Third place",
+      "date": "2022",
+      "awarder": "Club YanaInov Of Est Salé",
+      "summary": "This was an innovation competition, We participated with smartservice project and we win the third place"
+    },
+    {
+      "title": "First place",
+      "date": "2023",
+      "awarder": "University of Chouaib Doukkali",
+      "summary": "This was an International Innovation Competition, We participated with smartservice project and we win the first place"
+    }
+  ]
+}
