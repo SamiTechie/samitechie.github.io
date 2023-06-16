@@ -7,7 +7,6 @@
     "phone": "+212 629548466",
     "website": "https://samitechie.github.io",
     "summary": "I am currently pursuing a Master's degree in Computer Science and have a strong foundation in programming languages such as C, Kotlin, React, and JavaScript. Additionally, I have experience working on the Linux operating system as my primary platform.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
       { "network": "github", "username": "samitechie", "url": "http://github.com/samitechie" },
       { "network": "linkedin", "username": "samibelattar", "url": "https://www.linkedin.com/in/samibelattar" },
@@ -31,32 +30,41 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "High school Mohamed El Hamdaoui",
+      "startDate": "2015",
+      "endDate": "2018",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Mohammed V",
+      "area": "Bachelor's Degree, Physics)",
+      "startDate": "2018",
+      "endDate": "2021",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Mohammed V",
+      "area": "Master's Degree, Computer Science",
+      "startDate": "2021",
+      "endDate": " Present",
       "courses": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Third place",
+      "date": "2022",
+      "awarder": "Club YanaInov Of Est Salé",
+      "summary": "This was an innovation competition, We participated with smartservice project and we win the third place."
     },
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "date": "2023",
+      "awarder": "University of Chouaib Doukkali",
+      "summary": "This was an International Innovation Competition, We participated with smartservice project and we win the first place."
     }
   ]
 }
