@@ -33,12 +33,13 @@
       "institution": "High school Mohamed El Hamdaoui",
       "startDate": "2015",
       "endDate": "2018",
+      "studyType":""
       "courses": [
       ]
     },
     {
       "institution": "University of Mohammed V",
-      "area": "Bachelor's Degree, Physics)",
+      "studyType": "Bachelor's Degree, Physics)",
       "startDate": "2018",
       "endDate": "2021",
       "courses": [
@@ -46,7 +47,7 @@
     },
     {
       "institution": "University of Mohammed V",
-      "area": "Master's Degree, Computer Science",
+      "studyType": "Master's Degree, Computer Science",
       "startDate": "2021",
       "endDate": " Present",
       "courses": [
