@@ -9,14 +9,13 @@
     "summary": "I am currently pursuing a Master's degree in Computer Science and have a strong foundation in programming languages such as C, Kotlin, React, and JavaScript. Additionally, I have experience working on the Linux operating system as my primary platform.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/samitechie" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/samibelattar" },
+      { "network": "github", "username": "samitechie", "url": "http://github.com/samitechie" },
+      { "network": "linkedin", "username": "samibelattar", "url": "https://www.linkedin.com/in/samibelattar" },
     ]
   },
   "interests": [
     { "name": "Artificial Inteligent" },
     { "name": "Computer Science" },
-    { "name": "Robotics" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
@@ -38,33 +37,6 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
