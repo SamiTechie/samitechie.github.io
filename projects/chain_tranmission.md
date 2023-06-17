@@ -19,7 +19,7 @@ A transmission chain in telecommunications refers to the series of processes thr
 
 The following video show a demo:
 
- <iframe width="600"
+ <iframe width="600" height="600"
 src="https://www.youtube.com/embed/VVdd_c17XKs">
 </iframe> 
 

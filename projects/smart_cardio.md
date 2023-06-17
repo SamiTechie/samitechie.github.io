@@ -19,4 +19,6 @@ Cardiovascular diseases are a leading cause of death globally. In response to th
 The subsequent visuals display various aspects of the application in operation.
 
 <img class="img-fluid" src="../img/smart_cardio/heart_0.png">
+
+
 <img class="img-fluid" src="../img/smart_cardio/heart_1.png">
