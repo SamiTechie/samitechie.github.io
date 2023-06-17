@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: true
+title: "Smart Service"
+date: 2022
+published: false
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "This project implements facial recognition technology to facilitate secure and efficient access to student services in educational institutions, thereby enhancing campus experience and administrative efficiency.."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
