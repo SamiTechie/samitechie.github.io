@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/smart_cardio/smart_cardio_square.png
 title: "Smart Cardio"
-date: 2022
+date: 2023
 published: true
 labels:
   - Python
