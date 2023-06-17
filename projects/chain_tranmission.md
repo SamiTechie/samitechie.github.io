@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Smart Service"
+image: img/cotton/transmission_chain_square.png
+title: "Transmission chain"
 date: 2022
 published: true
 labels:
   - Python
   - Pyqt5
   - qml
-summary: "This project implements facial recognition technology to facilitate secure and efficient access to student services in educational institutions, thereby enhancing campus experience and administrative efficiency.."
+summary: "A transmission chain in telecommunications is a series of processes converting, modulating, and transmitting data through a medium, followed by demodulation and decoding at the receiver's end."
 ---
 
 <img class="img-fluid" src="../img/chain_transmission/chain_transmission_header.png">
@@ -20,9 +20,9 @@ A transmission chain in telecommunications refers to the series of processes thr
 The following video show a demo:
 
  <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/embed/VVdd_c17XKs">
 </iframe> 
 
 The source code:
 
-<a href=""></a>
+<a href="https://github.com/SamiTechie/transmission_chain"></a>

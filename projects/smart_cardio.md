@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Smart Service"
+image: img/cotton/smart_cardio-square.png
+title: "Smart Cardio"
 date: 2022
 published: true
 labels:

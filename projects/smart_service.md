@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/smart_service_square.png
 title: "Smart Service"
 date: 2022
 published: true
@@ -21,5 +21,5 @@ This project is an innovative application of facial recognition technology desig
 The following video show a demo:
 
  <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=LQNYgDLgpTc&list=LLcs_xvcnJOT8E2bwmfpe7BA">
+src="https://www.youtube.com/embed/LQNYgDLgpTch">
 </iframe> 
