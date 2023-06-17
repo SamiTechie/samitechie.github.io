@@ -10,6 +10,7 @@ labels:
   - Pyqt5
   - AI
   - Mysql
+  - Robotics
 summary: "This project implements facial recognition technology to facilitate secure and efficient access to student services in educational institutions, thereby enhancing campus experience and administrative efficiency.."
 ---
 
@@ -17,4 +18,8 @@ summary: "This project implements facial recognition technology to facilitate se
 
 This project is an innovative application of facial recognition technology designed to provide secure and efficient access to various educational services, including attestation of attendance, proof of success, and profile viewing. It was developed in response to the persistent challenges students face, such as the time-consuming queues and bureaucratic hurdles often encountered when trying to secure necessary academic documents. It also features a password-based fallback access method in case facial recognition fails. This project aims to provide a user-friendly solution that not only enhances the academic experience for students but also effectively reduces the long waiting times typically associated with accessing academic services.
 
-The following video 
+The following video show a demo:
+
+ <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=LQNYgDLgpTc&list=LLcs_xvcnJOT8E2bwmfpe7BA">
+</iframe> 
