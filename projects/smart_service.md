@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/smart_service_square.png
+image: img/smart_service/smart_service_square.png
 title: "Smart Service"
 date: 2022
 published: true

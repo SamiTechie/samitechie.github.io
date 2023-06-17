@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/smart_cardio-square.png
+image: img/smart_cardio/smart_cardio_square.png
 title: "Smart Cardio"
 date: 2022
 published: true
@@ -18,5 +18,5 @@ Cardiovascular diseases are a leading cause of death globally. In response to th
 
 The subsequent visuals display various aspects of the application in operation.
 
-<img class="img-fluid" src="../img/smart_cardio/cardio_0.png">
-<img class="img-fluid" src="../img/smart_cardio/cardio_1.png">
+<img class="img-fluid" src="../img/smart_cardio/heart_0.png">
+<img class="img-fluid" src="../img/smart_cardio/heart_1.png">
