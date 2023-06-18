@@ -16,6 +16,9 @@
     { "name": "Artificial Intelligence" },
     { "name": "Computer Science" },
     { "name": "Robotics" },
+    { "name": "Algorithms"},
+    { "name": "Data Structures"},
+    { "Big Data": "Big Data"},
     { "name": "3D Graphics" }
   ],
   "skills": [
