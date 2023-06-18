@@ -38,3 +38,6 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+p{
+  text-align: justify;
+}
