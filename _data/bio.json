@@ -18,7 +18,7 @@
     { "name": "Robotics" },
     { "name": "Algorithms"},
     { "name": "Data Structures"},
-    { "Big Data": "Big Data"},
+    { "name": "Big Data"},
     { "name": "3D Graphics" }
   ],
   "skills": [
