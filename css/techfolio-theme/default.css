@@ -39,5 +39,5 @@ a {
   border-top: none;
 }
 p{
-  text-align: justify;
+  text-align: justify; !important
 }
