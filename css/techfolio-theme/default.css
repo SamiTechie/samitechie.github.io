@@ -41,3 +41,7 @@ a {
 p{
   text-align: justify; !important
 }
+.rounded-start{
+ display: block; !important
+ margin:0 auto; !important
+}
