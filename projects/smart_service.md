@@ -20,6 +20,8 @@ This project is an innovative application of facial recognition technology desig
 
 The following video show a demo:
 
- <iframe width="600" height="450"
+<div style="position:relative; display:block; width: 100%">
+ <iframe width="100%" height="500px"
 src="https://www.youtube.com/embed/LQNYgDLgpTc" allowfullscreen>
 </iframe> 
+</div>
